@@ -1,4 +1,4 @@
-
+This repository contains three exercises done for week 5
 
 Exercise 1:
 A square wave with an amplitude of 1 and a frequency of 1 Hz is generated and plotted using the "square" function in MATLAB. 
